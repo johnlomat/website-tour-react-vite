@@ -1,6 +1,6 @@
-# Creating a Website Tour with React, Vite, and driver.js
+# Creating a Website Tour with React, Vite, and Driver.js
 
-Implement a guided tour of your website using driver.js to highlight key features in a React app set up with Vite.
+Implement a guided tour of your website using [Driver.js](https://driverjs.com/) to highlight key features in a React app set up with Vite.
 
 ## Step-by-Step Guide
 
@@ -12,7 +12,7 @@ cd my-app
 npm install
 ```
 
-- Install driver.js: To create the interactive tour, install driver.js:
+- Install Driver.js: To create the interactive tour, install Driver.js:
 
 ```bash
 npm install driver.js
